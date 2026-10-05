@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="550" viewBox="0 0 850 550" style="background-color: #1e1e2e; font-family: Segoe UI, sans-serif;">
+<text x="425.0" y="35" fill="#cdd6f4" font-size="20" font-weight="bold" text-anchor="middle">Working-Set Model: Page Fault Rate vs Resident Set Frames</text>
+<line x1="80" y1="480.0" x2="690" y2="480.0" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="484.0" fill="#a6adc8" font-size="12" text-anchor="end">0</text>
+<line x1="80" y1="411.6666666666667" x2="690" y2="411.6666666666667" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="415.6666666666667" fill="#a6adc8" font-size="12" text-anchor="end">18</text>
+<line x1="80" y1="343.33333333333337" x2="690" y2="343.33333333333337" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="347.33333333333337" fill="#a6adc8" font-size="12" text-anchor="end">36</text>
+<line x1="80" y1="275.0" x2="690" y2="275.0" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="279.0" fill="#a6adc8" font-size="12" text-anchor="end">55</text>
+<line x1="80" y1="206.66666666666669" x2="690" y2="206.66666666666669" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="210.66666666666669" fill="#a6adc8" font-size="12" text-anchor="end">73</text>
+<line x1="80" y1="138.33333333333331" x2="690" y2="138.33333333333331" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="142.33333333333331" fill="#a6adc8" font-size="12" text-anchor="end">91</text>
+<line x1="80" y1="70.0" x2="690" y2="70.0" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="74.0" fill="#a6adc8" font-size="12" text-anchor="end">110</text>
+<line x1="80.0" y1="70" x2="80.0" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="80.0" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">1</text>
+<line x1="167.14285714285714" y1="70" x2="167.14285714285714" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="167.14285714285714" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">2</text>
+<line x1="254.28571428571428" y1="70" x2="254.28571428571428" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="254.28571428571428" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">3</text>
+<line x1="341.4285714285714" y1="70" x2="341.4285714285714" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="341.4285714285714" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">4</text>
+<line x1="428.57142857142856" y1="70" x2="428.57142857142856" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="428.57142857142856" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">5</text>
+<line x1="515.7142857142858" y1="70" x2="515.7142857142858" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="515.7142857142858" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">6</text>
+<line x1="602.8571428571428" y1="70" x2="602.8571428571428" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="602.8571428571428" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">7</text>
+<line x1="690.0" y1="70" x2="690.0" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="690.0" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">8</text>
+<line x1="80" y1="480" x2="690" y2="480" stroke="#bac2de" stroke-width="2"/>
+<line x1="80" y1="70" x2="80" y2="480" stroke="#bac2de" stroke-width="2"/>
+<text x="385.0" y="530" fill="#cdd6f4" font-size="14" font-weight="600" text-anchor="middle">Resident Set Size (Allocated Frames)</text>
+<text x="25" y="275.0" fill="#cdd6f4" font-size="14" font-weight="600" text-anchor="middle" transform="rotate(-90 25 275.0)">Page Faults per 100 References</text>
+<path d="M 80.0 125.9 L 167.1 174.4 L 254.3 263.8 L 341.4 360.7 L 428.6 405.5 L 515.7 412.9 L 602.9 420.4 L 690.0 424.1" fill="none" stroke="#89b4fa" stroke-width="3" stroke-linecap="round"/>
+<circle cx="80.0" cy="125.9" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="167.1" cy="174.4" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="254.3" cy="263.8" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="341.4" cy="360.7" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="428.6" cy="405.5" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="515.7" cy="412.9" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="602.9" cy="420.4" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="690.0" cy="424.1" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<line x1="710" y1="80" x2="740" y2="80" stroke="#89b4fa" stroke-width="3"/>
+<circle cx="725" cy="80" r="4" fill="#89b4fa"/>
+<text x="748" y="84" fill="#cdd6f4" font-size="13" font-weight="500">LRU</text>
+<path d="M 80.0 125.9 L 167.1 159.5 L 254.3 241.5 L 341.4 338.4 L 428.6 383.1 L 515.7 398.0 L 602.9 409.2 L 690.0 412.9" fill="none" stroke="#f38ba8" stroke-width="3" stroke-linecap="round"/>
+<circle cx="80.0" cy="125.9" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="167.1" cy="159.5" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="254.3" cy="241.5" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="341.4" cy="338.4" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="428.6" cy="383.1" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="515.7" cy="398.0" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="602.9" cy="409.2" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="690.0" cy="412.9" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<line x1="710" y1="106" x2="740" y2="106" stroke="#f38ba8" stroke-width="3"/>
+<circle cx="725" cy="106" r="4" fill="#f38ba8"/>
+<text x="748" y="110" fill="#cdd6f4" font-size="13" font-weight="500">FIFO</text>
+<path d="M 80.0 125.9 L 167.1 219.1 L 254.3 316.0 L 341.4 390.5 L 428.6 420.4 L 515.7 424.1 L 602.9 424.1 L 690.0 424.1" fill="none" stroke="#a6e3a1" stroke-width="3" stroke-linecap="round"/>
+<circle cx="80.0" cy="125.9" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="167.1" cy="219.1" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="254.3" cy="316.0" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="341.4" cy="390.5" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="428.6" cy="420.4" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="515.7" cy="424.1" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="602.9" cy="424.1" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="690.0" cy="424.1" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<line x1="710" y1="132" x2="740" y2="132" stroke="#a6e3a1" stroke-width="3"/>
+<circle cx="725" cy="132" r="4" fill="#a6e3a1"/>
+<text x="748" y="136" fill="#cdd6f4" font-size="13" font-weight="500">Optimal</text>
+<circle cx="341.4" cy="360.7" r="9" fill="none" stroke="#f38ba8" stroke-width="3"/>
+<rect x="353.4285714285714" y="338.72727272727275" width="180" height="26" rx="4" fill="#313244" stroke="#f38ba8" stroke-width="1.5"/>
+<text x="359.4285714285714" y="355.72727272727275" fill="#f38ba8" font-size="11" font-weight="bold">Working-Set Knee (w=4)</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="550" viewBox="0 0 850 550" style="background-color: #1e1e2e; font-family: Segoe UI, sans-serif;">
+<text x="425.0" y="35" fill="#cdd6f4" font-size="20" font-weight="bold" text-anchor="middle">Bélády's Anomaly Detection: Faults vs Physical Frames</text>
+<line x1="80" y1="480.0" x2="690" y2="480.0" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="484.0" fill="#a6adc8" font-size="12" text-anchor="end">0</text>
+<line x1="80" y1="411.6666666666667" x2="690" y2="411.6666666666667" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="415.6666666666667" fill="#a6adc8" font-size="12" text-anchor="end">2</text>
+<line x1="80" y1="343.33333333333337" x2="690" y2="343.33333333333337" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="347.33333333333337" fill="#a6adc8" font-size="12" text-anchor="end">4</text>
+<line x1="80" y1="275.0" x2="690" y2="275.0" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="279.0" fill="#a6adc8" font-size="12" text-anchor="end">7</text>
+<line x1="80" y1="206.66666666666669" x2="690" y2="206.66666666666669" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="210.66666666666669" fill="#a6adc8" font-size="12" text-anchor="end">9</text>
+<line x1="80" y1="138.33333333333331" x2="690" y2="138.33333333333331" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="142.33333333333331" fill="#a6adc8" font-size="12" text-anchor="end">11</text>
+<line x1="80" y1="70.0" x2="690" y2="70.0" stroke="#313244" stroke-width="1" stroke-dasharray="4"/>
+<text x="68" y="74.0" fill="#a6adc8" font-size="12" text-anchor="end">14</text>
+<line x1="80.0" y1="70" x2="80.0" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="80.0" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">2</text>
+<line x1="232.5" y1="70" x2="232.5" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="232.5" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">3</text>
+<line x1="385.0" y1="70" x2="385.0" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="385.0" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">4</text>
+<line x1="537.5" y1="70" x2="537.5" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="537.5" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">5</text>
+<line x1="690.0" y1="70" x2="690.0" y2="480" stroke="#313244" stroke-width="1" stroke-dasharray="2"/>
+<text x="690.0" y="502" fill="#a6adc8" font-size="12" text-anchor="middle">6</text>
+<line x1="80" y1="480" x2="690" y2="480" stroke="#bac2de" stroke-width="2"/>
+<line x1="80" y1="70" x2="80" y2="480" stroke="#bac2de" stroke-width="2"/>
+<text x="385.0" y="530" fill="#cdd6f4" font-size="14" font-weight="600" text-anchor="middle">Physical Frame Allocation (Frames)</text>
+<text x="25" y="275.0" fill="#cdd6f4" font-size="14" font-weight="600" text-anchor="middle" transform="rotate(-90 25 275.0)">Page Fault Count</text>
+<path d="M 80.0 128.6 L 232.5 216.4 L 385.0 187.1 L 537.5 333.6 L 690.0 333.6" fill="none" stroke="#f38ba8" stroke-width="3" stroke-linecap="round"/>
+<circle cx="80.0" cy="128.6" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="232.5" cy="216.4" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="385.0" cy="187.1" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="537.5" cy="333.6" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="690.0" cy="333.6" r="5" fill="#f38ba8" stroke="#1e1e2e" stroke-width="2"/>
+<line x1="710" y1="80" x2="740" y2="80" stroke="#f38ba8" stroke-width="3"/>
+<circle cx="725" cy="80" r="4" fill="#f38ba8"/>
+<text x="748" y="84" fill="#cdd6f4" font-size="13" font-weight="500">FIFO</text>
+<path d="M 80.0 128.6 L 232.5 187.1 L 385.0 245.7 L 537.5 333.6 L 690.0 333.6" fill="none" stroke="#89b4fa" stroke-width="3" stroke-linecap="round"/>
+<circle cx="80.0" cy="128.6" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="232.5" cy="187.1" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="385.0" cy="245.7" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="537.5" cy="333.6" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="690.0" cy="333.6" r="5" fill="#89b4fa" stroke="#1e1e2e" stroke-width="2"/>
+<line x1="710" y1="106" x2="740" y2="106" stroke="#89b4fa" stroke-width="3"/>
+<circle cx="725" cy="106" r="4" fill="#89b4fa"/>
+<text x="748" y="110" fill="#cdd6f4" font-size="13" font-weight="500">LRU</text>
+<path d="M 80.0 128.6 L 232.5 187.1 L 385.0 216.4 L 537.5 333.6 L 690.0 333.6" fill="none" stroke="#fab387" stroke-width="3" stroke-linecap="round"/>
+<circle cx="80.0" cy="128.6" r="5" fill="#fab387" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="232.5" cy="187.1" r="5" fill="#fab387" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="385.0" cy="216.4" r="5" fill="#fab387" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="537.5" cy="333.6" r="5" fill="#fab387" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="690.0" cy="333.6" r="5" fill="#fab387" stroke="#1e1e2e" stroke-width="2"/>
+<line x1="710" y1="132" x2="740" y2="132" stroke="#fab387" stroke-width="3"/>
+<circle cx="725" cy="132" r="4" fill="#fab387"/>
+<text x="748" y="136" fill="#cdd6f4" font-size="13" font-weight="500">Clock</text>
+<path d="M 80.0 128.6 L 232.5 275.0 L 385.0 304.3 L 537.5 333.6 L 690.0 333.6" fill="none" stroke="#a6e3a1" stroke-width="3" stroke-linecap="round"/>
+<circle cx="80.0" cy="128.6" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="232.5" cy="275.0" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="385.0" cy="304.3" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="537.5" cy="333.6" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<circle cx="690.0" cy="333.6" r="5" fill="#a6e3a1" stroke="#1e1e2e" stroke-width="2"/>
+<line x1="710" y1="158" x2="740" y2="158" stroke="#a6e3a1" stroke-width="3"/>
+<circle cx="725" cy="158" r="4" fill="#a6e3a1"/>
+<text x="748" y="162" fill="#cdd6f4" font-size="13" font-weight="500">Optimal</text>
+<circle cx="385.0" cy="187.1" r="9" fill="none" stroke="#f38ba8" stroke-width="3"/>
+<rect x="397.0" y="165.1428571428571" width="180" height="26" rx="4" fill="#313244" stroke="#f38ba8" stroke-width="1.5"/>
+<text x="403.0" y="182.1428571428571" fill="#f38ba8" font-size="11" font-weight="bold">Bélády Anomaly: 9 -> 10 Faults!</text>
+</svg>

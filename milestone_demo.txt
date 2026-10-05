@@ -1,0 +1,9 @@
+# PageSim Milestone Demo Run Commands
+cd /home/paul_ubuntu/pagesim || cd simulator
+make clean && make -j4 && make test
+make asan
+./pagesim --demo
+./pagesim --belady --min-frames 2 --max-frames 6
+./pagesim -f 3 -t "1 2 3 4 1 2 5 1 2 3 4 5" --timeline -p FIFO
+./pagesim --workingset --min-frames 2 --max-frames 12 --gen locality
+python3 scripts/plot_curves.py

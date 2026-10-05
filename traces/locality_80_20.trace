@@ -1,0 +1,26 @@
+# 80/20 Locality of Reference Trace
+# Working set consists predominantly of pages 1, 2, 3 with occasional cold page accesses
+1 R 1 0x1000
+2 R 1 0x2000
+1 W 1 0x1000
+3 R 1 0x3000
+2 W 1 0x2000
+1 R 1 0x1000
+9 R 1 0x9000
+2 R 1 0x2000
+3 W 1 0x3000
+1 R 1 0x1000
+2 R 1 0x2000
+8 R 1 0x8000
+1 R 1 0x1000
+3 R 1 0x3000
+2 W 1 0x2000
+1 R 1 0x1000
+2 R 1 0x2000
+3 R 1 0x3000
+15 W 1 0xF000
+1 R 1 0x1000
+2 R 1 0x2000
+3 W 1 0x3000
+1 R 1 0x1000
+2 R 1 0x2000
